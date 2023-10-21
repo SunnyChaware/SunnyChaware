@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/sunnychaware__" target="blank"><img src="https://img.shields.io/twitter/follow/sunnychaware__?logo=twitter&style=for-the-badge" alt="sunnychaware__" /></a> </p>
 
-- 🔭 I’m currently working on **BlogiFy ( a Blogging webApp )**
+- 🔭 I’m currently working on **TwoWay and N-Way (a video conferencing app, trying to learn the concepts of webRTC)**
 
-- 🌱 I’m currently learning **React Js, Tailwind Css**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **sunnychaware52@gmail.com**
 
